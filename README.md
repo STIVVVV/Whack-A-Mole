@@ -1,2 +1,2 @@
 # Whack-A-Mole
-basic whack a mole game made with javascript
+Basic whack a mole game made with javascript.
